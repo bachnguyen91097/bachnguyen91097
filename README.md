@@ -4,9 +4,9 @@
 
 💪🏻  Quickly adapt to change, possess eagerness towards learning and constantly search for opportunities to strive for the better
 
-🌱 🎓  Pursuing a master's degree in Computer Science at Northeastern University
+🎓  Pursuing a master's degree in Computer Science at Northeastern University
 
-💻  Coding in Python, Java and C  
+💻  Coding in multiple languages (Python and Java to name a few)
 
 📫  Feel free to reach me at nguyen.bac@northeastern.edu or bachnguyen91097@gmail.com for new opportunities and collaboration
 
